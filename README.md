@@ -1,4 +1,6 @@
-<img width="100%" height="auto" src="https://camo.githubusercontent.com/f275ae32f6cfabfece59997b7d38da3e2d9902bc93a9a5756ce66f76e2ba3c62/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67" data-canonical-src="https://i.imgur.com/iXuL1HG.png" style="max-width: 100%;">
+<p align="center">
+  <img src="https://i.imgur.com/iXuL1HG.png" alt="Banner" width="100%">
+</p>
 
 
 <h1 align="center">Hi 👋,Nice to see You I'm Bhaskar</h1>
